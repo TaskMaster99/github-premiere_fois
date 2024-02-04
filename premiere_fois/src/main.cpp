@@ -2,9 +2,6 @@
 
 int main(){
 
-  std::cout<<"Hello Worlds"<<std::endl;
-  std::cout<<"Lol"<<std::endl;
-
-
+  std::cout<<"azerty"<<std::endl;
   return 0;
 }
